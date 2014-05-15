@@ -25,7 +25,7 @@
                         $isMobile = false;
                 }
                
-                return $isnotMobile;
+                return $isMobile;
         }
        
         function mobileSniffer($url) {
